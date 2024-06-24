@@ -51,7 +51,7 @@ useGSAP(() => {
              <div className="hiw-text-container">
                 <div className="flex-1 flex-col flex justify-center">
                   <p className="hiw-text g_fadeIn">
-                      A17 Pro is an entirely new class of iPhone chip that delivers our{' '}
+                      A17 Pro is an entirely new class of YPhone chip that delivers our{' '}
                    <span className="text-white">best graphics performance by far. </span>
                     
                   </p>

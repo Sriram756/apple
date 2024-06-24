@@ -29,7 +29,7 @@ const Features = () => {
         </div>
         <div className="flex flex-col justify-center items-center overflow-hidden">
             <div className='mt-32 mb-24 pl-24'>
-                <h2 className='text-5xl lg:text-7xl font-semibold'>iphone</h2>
+                <h2 className='text-5xl lg:text-7xl font-semibold'>Yphone</h2>
                  <h2 className='text-5xl lg:text-7xl font-semibold'>forged by titanium</h2>
 
             </div>
@@ -49,8 +49,8 @@ const Features = () => {
                     <div className="feature-text-container">
                         <div className="flex-1 flex-center">
                             <p className="feature-text g_text">
-                                Iphone 15 pro is {' '}
-                                <span className="text-white">the first iphone to feature an aerospace - grade titanium design ,  </span>, using the same alloy that spacecraft use for missioms to mars, 
+                                Yphone 15 pro is {' '}
+                                <span className="text-white">the first Yphone to feature an aerospace - grade titanium design ,  </span>, using the same alloy that spacecraft use for missioms to mars, 
                             </p>
                         </div>
                          <div className="flex-1 flex-center">
